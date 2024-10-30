@@ -18,6 +18,11 @@ Este proyecto es una aplicación web de eCommerce básica construida con Spring 
 ## Previsualización
 A continuación se muestran algunas capturas de pantalla de el progreso actual de la aplicación:
 
+![SS1 lista](https://github.com/user-attachments/assets/ade0d8f7-5b6e-4515-9617-aca904d88414)
+
+![SS2 crear](https://github.com/user-attachments/assets/4e5778e7-45f9-4759-8b32-affcd62a55f4)
+
+![SS3 actualizar](https://github.com/user-attachments/assets/ebe5e2b7-aa9a-4d82-abe0-564e70dd4fe0)
 
 ## Información del Estudiante
 
