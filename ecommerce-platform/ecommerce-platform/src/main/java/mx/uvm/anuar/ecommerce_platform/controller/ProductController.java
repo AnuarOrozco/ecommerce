@@ -81,8 +81,6 @@ public class ProductController {
         Product p = new Product();
         p=productService.get(product.getId()).get();
 
-
-
         if (file.isEmpty()) {
             product.setImage(p.getImage());
         } else {
